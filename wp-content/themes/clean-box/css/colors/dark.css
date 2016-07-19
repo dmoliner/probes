@@ -1,0 +1,187 @@
+/*
+	A dark color scheme for Clean Box Pro
+*/
+
+body {
+	background-color: #191919;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+.site-title a,
+.entry-title, 
+.entry-title a,
+a:hover,
+a:focus,
+a:active,
+.clean-box-nav-menu a, 
+.sidebar-header-right .widget_nav_menu a,
+.site .widget_clean_box_social_icons .genericon,
+.site .mobile-menu-anchor a.genericon-menu, 
+.site .mobile-menu-anchor a.genericon-menu:hover,
+#nav-below .wp-pagenavi span.pages,
+#featured-content .entry-title a,
+#promotion-message .right a:hover,
+#supplementary,
+#supplementary .widget-title, 
+#supplementary .widget-title a,
+#supplementary a:hover {
+    color: #bebebe;
+}
+
+a,
+.site-title a:hover,
+#featured-content .entry-title a:hover,
+.entry-title a:hover,
+#breadcrumb-list a,
+#breadcrumb-list a span,
+#infinite-handle span,
+#nav-below .wp-pagenavi a,
+#nav-below .wp-pagenavi span, 
+.page-links span,
+.clean-box-nav-menu li a:hover,
+.clean-box-nav-menu li a:focus,
+.sidebar-header-right .widget_nav_menu li a:hover,
+.sidebar-header-right .widget_nav_menu li a:focus,
+.clean-box-nav-menu li:hover > a,
+.sidebar-header-right .widget_nav_menu li:hover > a,
+.clean-box-nav-menu .current-menu-item > a, 
+.clean-box-nav-menu .current-menu-ancestor > a,
+.clean-box-nav-menu .current_page_item > a, 
+.clean-box-nav-menu .current_page_ancestor > a,
+.sidebar-header-right .widget_nav_menu .current-menu-item > a, 
+.sidebar-header-right .widget_nav_menu .current-menu-ancestor > a,
+.clean-box-nav-menu .sub-menu li a:hover,
+.clean-box-nav-menu .sub-menu li a:focus,
+.clean-box-nav-menu .children li a:hover,
+.clean-box-nav-menu .children li a:focus,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:hover,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:focus,
+.site .widget_clean_box_social_icons .genericon-wordpress:hover,
+#promotion-message .right a,
+#supplementary a {
+    color: #a92f41;
+}
+
+#promotion-message .right a:hover {
+	border-color: #a92f41;
+}
+
+.site .widget_clean_box_social_icons .genericon,
+mark, 
+ins,
+pre,
+.entry-content code,
+#breadcrumb-list .wrapper,
+#featured-content .wrapper,
+#infinite-handle span,
+#nav-below .wp-pagenavi a, 
+#nav-below .wp-pagenavi span,
+#promotion-message .right a,
+.rtl blockquote {
+    background-color: #191919;
+}
+
+.sidebar-header-right .widget_nav_menu .sub-menu,
+.clean-box-nav-menu .sub-menu a,
+.clean-box-nav-menu .children a,
+.sidebar-header-right .widget_nav_menu .sub-menu a,
+.clean-box-nav-menu .sub-menu .sub-menu,
+.clean-box-nav-menu .children .children,
+.sidebar-header-right .widget_nav_menu .sub-menu .sub-menu,
+#header-toggle-sidebar .widget,
+#featured-grid-content .wrapper,
+#promotion-message .wrapper,
+#featured-content .wrapper,
+.hentry,
+.sidebar-primary .widget,
+#nav-below,
+.site-main .comment-navigation,
+.site-main .navigation,
+#comments,
+#featured-content.border-top,
+#feature-heading,
+.page-header .page-title,
+.archive-post-wrap, 
+.page-header .page-title {
+    border-color: #191919;
+}
+
+.nav-secondary a,
+.nav-footer a {
+	color: #ccc;
+}
+.nav-secondary li:hover > a,
+.nav-secondary li a:hover,
+.nav-secondary li a:focus,
+.nav-secondary .current-menu-item > a, 
+.nav-secondary .current-menu-ancestor > a,
+.nav-secondary .sub-menu li a:hover,
+.nav-secondary .sub-menu li a:focus,
+.nav-footer ul.menu li.current-menu-item a,
+.nav-footer ul.menu li a:hover {
+	color: #fff;
+}
+
+.sidebar-header-right .menu .sub-menu a, 
+.sidebar-header-right .menu .sub-menu a,
+#header-toggle-sidebar .widget,
+#promotion-message .wrapper,
+#featured-content .wrapper,
+.sidebar-primary .widget,
+.hentry,
+#nav-below,
+.site-main .comment-navigation,
+.site-main .navigation,
+#comments,
+#supplementary {
+	background-color: #202020;
+}
+
+.nav-secondary .wrapper,
+.nav-secondary .menu .sub-menu a, 
+.nav-secondary .menu .children a,
+.nav-secondary .menu .sub-menu .sub-menu,
+.nav-secondary .menu .children .children,
+#infinite-handle span:hover,
+#nav-below .wp-pagenavi span.current,
+#nav-below .wp-pagenavi a:hover,
+#nav-below #wp_page_numbers ul li a:hover,
+.nav-footer,
+#site-generator {
+    background-color: #111;
+}
+
+.nav-secondary .menu .sub-menu a, 
+.nav-secondary .menu .children a,
+.nav-secondary .menu .sub-menu .sub-menu,
+.nav-secondary .menu .children .children,
+#promotion-message .right a,
+#colophon {
+    border-color: #181818;
+}
+
+.site .widget_clean_box_social_icons .genericon {
+	border-color: #111;
+}
+
+/* Mobile Menu */
+.menu-access-wrap,
+.sidr {
+    background-color: #111;
+}
+.sidr ul,
+.sidr ul li {
+	border-color: #222;
+}
+.sidr ul li a, 
+.sidr ul li span {
+    color: #ccc;
+}
+.sidr ul li a:hover {
+	background-color: #222;
+	color: #fff;
+}

@@ -1,0 +1,42 @@
+== Changelog ==
+
+= 1.2 =
+* Updated: Content Width Implementation
+* Updated: Theme Layout retrieval via function
+* Updated: Favicon and Web Clip Migration to Site Icon( Core Support )
+* Updated: Logo to Custom Logo( Core Support ) for WP version 4.5
+
+= 1.1 =
+* Fixed: Page menu class issue in mobile view
+* Updated: Danish translation da_DK.po and da_DK.mo
+* Updated: Sidr menu script to version 2.1.1.1
+* Updated: Meta viewport for better responsive support
+
+= 1.0 =
+* Added: Disable scrollup option
+* Added: Danish translation da_DK.po and da_DK.mo
+* Bug Fixed: Genericions issue with To Top plugin
+* Bug Fixed: Featured content layout issue in 4 columns layout (Reported by: Marius)
+
+= 0.5 =
+* Bug Fixed: Primary menu not showing on mobile (Reported by: dallaseventaudio)
+
+= 0.4 =
+* Added: Social Icons for Phone, Handset, Cart, Cloud, Link( Custom Link )
+* Bug Fixed: Unnecessary codes in clean-box-metabox.php
+* Bug Fixed: Output Sanitization on clean-box-custom-header.php
+* Enhancement: Used antispambot() function on emails output on social icons
+* Updated Genericons to 3.4.1
+* Updated Jetpack Scroll Pagination Option to enable infinite scroll in Reading Settings
+
+= 0.3 =
+* Bug Fixed: Body Classes Layouts Issue
+* Bug Fixed: Navigation css
+* Bug Fixed: Page Header css
+* Bug Fixed: Not Found and Error 404 page template
+
+= 0.2 =
+* Initial Release in CatchThemes.com
+
+= 0.1 =
+* Submitted to WordPress.org
